@@ -1,0 +1,43 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+/* hr{
+    display: inline;
+  width: fit-content;
+} */
+hr{
+    margin-left:400px;
+}
+h1{
+    /* font-family: 'Roboto', sans-serif;
+font-family: 'Source Sans Pro', sans-serif; */
+font-family: 'Roboto', sans-serif;
+font-family: 'Source Sans Pro', sans-serif;
+font-size: 70px;
+padding: 0 50px;
+text-align: center;
+
+
+}
+p{
+    font-family: 'Roboto', sans-serif;
+font-family: 'Source Sans Pro', sans-serif;
+padding: 20px 20px;
+margin-left:390px;
+
+/* text-align: ; */
+}
+
+form{
+    /* text-align: center; */
+    margin: 0 400px;
+}
+div.formclass label{
+    display: inline-block;
+margin-bottom: 10px;
+}
+.slc1{
+
+}
